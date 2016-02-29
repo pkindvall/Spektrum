@@ -1,2 +1,2 @@
 # kindvall
-examensarbete
+detta är en repository för mitt examensarbete
